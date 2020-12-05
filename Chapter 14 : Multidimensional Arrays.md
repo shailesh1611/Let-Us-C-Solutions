@@ -151,7 +151,7 @@
     int key, flag = FALSE;
 
     gotoxy(30, 20);
-    printf("\nArrange the numbes in ascending order.\nPress any key to start. . .");
+    printf("\nArrange the numbers in ascending order.\nPress any key to start. . .");
     _getch();
     system("cls");//clrscr(); in TurboC++
     box(0, 0, 24, 8);
